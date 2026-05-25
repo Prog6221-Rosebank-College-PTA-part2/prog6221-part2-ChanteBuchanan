@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\27725\\OneDrive - ADvTECH Ltd\\Documents\\GitHub\\prog6221-part2-ChanteBuchanan\\ST10474421PT2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CE6927-2520-5500-5590-0BB021648F2F}|ST10474421PT2\\ST10474421PT2.csproj|c:\\users\\27725\\onedrive - advtech ltd\\documents\\github\\prog6221-part2-chantebuchanan\\st10474421pt2\\st10474421pt2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8CE6927-2520-5500-5590-0BB021648F2F}|ST10474421PT2\\ST10474421PT2.csproj|solutionrelative:st10474421pt2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\27725\\OneDrive - ADvTECH Ltd\\Documents\\GitHub\\prog6221-part2-ChanteBuchanan\\ST10474421PT2\\ST10474421PT2\\Form1.cs",
+              "RelativeDocumentMoniker": "ST10474421PT2\\Form1.cs",
+              "ToolTip": "C:\\Users\\27725\\OneDrive - ADvTECH Ltd\\Documents\\GitHub\\prog6221-part2-ChanteBuchanan\\ST10474421PT2\\ST10474421PT2\\Form1.cs [Design]",
+              "RelativeToolTip": "ST10474421PT2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T13:06:04.251Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
